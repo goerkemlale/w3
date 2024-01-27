@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://goerkemlale.github.io/w3/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://goerkemlale.github.io/w3/</loc>
+</url>
+<url>
+<loc>https://goerkemlale.github.io/w3/about-me.html</loc>
+<lastmod>2023-12-07T23:20:47+03:00</lastmod>
+</url>
+<url>
+<loc>https://goerkemlale.github.io/w3/devops-oegrenme-seruevenim.html</loc>
+<lastmod>2024-01-27T15:56:11+03:00</lastmod>
+</url>
+<url>
+<loc>https://goerkemlale.github.io/w3/devops-portfolio.html</loc>
+<lastmod>2023-12-07T22:30:15+03:00</lastmod>
+</url>
+<url>
+<loc>https://goerkemlale.github.io/w3/devops-temelleri.html</loc>
+<lastmod>2023-12-07T20:36:10+03:00</lastmod>
+<image:image>
+<image:loc>https://goerkemlale.github.io/w3/media/posts/3/Designer.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://goerkemlale.github.io/w3/devopsa-nasil-adim-attim.html</loc>
+<lastmod>2023-12-07T20:35:44+03:00</lastmod>
+</url>
+<url>
+<loc>https://goerkemlale.github.io/w3/devopsta-dikkat-edilesiceler.html</loc>
+<lastmod>2023-12-07T20:37:34+03:00</lastmod>
+</url>
+<url>
+<loc>https://goerkemlale.github.io/w3/translator-portfolio.html</loc>
+<lastmod>2023-12-07T22:30:18+03:00</lastmod>
+</url>
+<url>
+<loc>https://goerkemlale.github.io/w3/yerellestirme-nedir.html</loc>
+<lastmod>2023-12-07T20:36:29+03:00</lastmod>
+</url>
+</urlset>

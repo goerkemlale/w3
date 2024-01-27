@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://goerkemlale.github.io/w3/sitemap.xml
