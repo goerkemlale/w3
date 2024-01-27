@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Görkem Lale",
     "description": "",
-    "home_page_url": "https://goerkemlale.github.io/w3",
-    "feed_url": "https://goerkemlale.github.io/w3/feed.json",
+    "home_page_url": "https://gorkemlale.com",
+    "feed_url": "https://gorkemlale.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Görkem Lale"
     },
     "items": [
         {
-            "id": "https://goerkemlale.github.io/w3/devopsta-dikkat-edilesiceler.html",
-            "url": "https://goerkemlale.github.io/w3/devopsta-dikkat-edilesiceler.html",
+            "id": "https://gorkemlale.com/devopsta-dikkat-edilesiceler.html",
+            "url": "https://gorkemlale.com/devopsta-dikkat-edilesiceler.html",
             "title": "DevOps&#x27;ta Dikkat Edilesiceler",
             "summary": "Dikkat edin",
             "content_html": "<p>Dikkat edin</p>\n",
@@ -25,8 +25,8 @@
             "date_modified": "2023-12-07T20:37:34+03:00"
         },
         {
-            "id": "https://goerkemlale.github.io/w3/yerellestirme-nedir.html",
-            "url": "https://goerkemlale.github.io/w3/yerellestirme-nedir.html",
+            "id": "https://gorkemlale.com/yerellestirme-nedir.html",
+            "url": "https://gorkemlale.com/yerellestirme-nedir.html",
             "title": "Yerelleştirme Nedir?",
             "summary": "yerelleştirme şudur",
             "content_html": "<p>yerelleştirme şudur</p>\n",
@@ -40,12 +40,12 @@
             "date_modified": "2023-12-07T20:36:29+03:00"
         },
         {
-            "id": "https://goerkemlale.github.io/w3/devops-temelleri.html",
-            "url": "https://goerkemlale.github.io/w3/devops-temelleri.html",
+            "id": "https://gorkemlale.com/devops-temelleri.html",
+            "url": "https://gorkemlale.com/devops-temelleri.html",
             "title": "DevOps Temelleri",
             "summary": "Ahanda Temel",
             "content_html": "<p>Ahanda\nTemel</p>\n",
-            "image": "https://goerkemlale.github.io/w3/media/posts/3/Designer.jpeg",
+            "image": "https://gorkemlale.com/media/posts/3/Designer.jpeg",
             "author": {
                 "name": "Görkem Lale"
             },
@@ -56,8 +56,8 @@
             "date_modified": "2023-12-07T20:36:10+03:00"
         },
         {
-            "id": "https://goerkemlale.github.io/w3/devopsa-nasil-adim-attim.html",
-            "url": "https://goerkemlale.github.io/w3/devopsa-nasil-adim-attim.html",
+            "id": "https://gorkemlale.com/devopsa-nasil-adim-attim.html",
+            "url": "https://gorkemlale.com/devopsa-nasil-adim-attim.html",
             "title": "DevOps&#x27;a nasıl adım attım",
             "summary": "Şöyle Böyle",
             "content_html": "<p>Şöyle\nBöyle</p>\n",
@@ -71,8 +71,8 @@
             "date_modified": "2023-12-07T20:35:44+03:00"
         },
         {
-            "id": "https://goerkemlale.github.io/w3/noindex.html",
-            "url": "https://goerkemlale.github.io/w3/noindex.html",
+            "id": "https://gorkemlale.com/noindex.html",
+            "url": "https://gorkemlale.com/noindex.html",
             "title": "noindex",
             "author": {
                 "name": "Görkem Lale"

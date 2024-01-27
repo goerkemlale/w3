@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Görkem Lale</title>
-    <link href="https://goerkemlale.github.io/w3/feed.xml" rel="self" />
-    <link href="https://goerkemlale.github.io/w3" />
+    <link href="https://gorkemlale.com/feed.xml" rel="self" />
+    <link href="https://gorkemlale.com" />
     <updated>2023-12-07T20:37:34+03:00</updated>
     <author>
         <name>Görkem Lale</name>
     </author>
-    <id>https://goerkemlale.github.io/w3</id>
+    <id>https://gorkemlale.com</id>
 
     <entry>
         <title>DevOps&#x27;ta Dikkat Edilesiceler</title>
         <author>
             <name>Görkem Lale</name>
         </author>
-        <link href="https://goerkemlale.github.io/w3/devopsta-dikkat-edilesiceler.html"/>
-        <id>https://goerkemlale.github.io/w3/devopsta-dikkat-edilesiceler.html</id>
+        <link href="https://gorkemlale.com/devopsta-dikkat-edilesiceler.html"/>
+        <id>https://gorkemlale.com/devopsta-dikkat-edilesiceler.html</id>
             <category term="DevOps"/>
 
         <updated>2023-12-07T20:37:34+03:00</updated>
@@ -36,8 +36,8 @@
         <author>
             <name>Görkem Lale</name>
         </author>
-        <link href="https://goerkemlale.github.io/w3/yerellestirme-nedir.html"/>
-        <id>https://goerkemlale.github.io/w3/yerellestirme-nedir.html</id>
+        <link href="https://gorkemlale.com/yerellestirme-nedir.html"/>
+        <id>https://gorkemlale.com/yerellestirme-nedir.html</id>
             <category term="Localization"/>
 
         <updated>2023-12-07T20:36:29+03:00</updated>
@@ -58,21 +58,21 @@
         <author>
             <name>Görkem Lale</name>
         </author>
-        <link href="https://goerkemlale.github.io/w3/devops-temelleri.html"/>
-        <id>https://goerkemlale.github.io/w3/devops-temelleri.html</id>
-        <media:content url="https://goerkemlale.github.io/w3/media/posts/3/Designer.jpeg" medium="image" />
+        <link href="https://gorkemlale.com/devops-temelleri.html"/>
+        <id>https://gorkemlale.com/devops-temelleri.html</id>
+        <media:content url="https://gorkemlale.com/media/posts/3/Designer.jpeg" medium="image" />
             <category term="DevOps"/>
 
         <updated>2023-12-07T20:36:10+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://goerkemlale.github.io/w3/media/posts/3/Designer.jpeg" alt="" />
+                        <img src="https://gorkemlale.com/media/posts/3/Designer.jpeg" alt="" />
                     Ahanda Temel
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://goerkemlale.github.io/w3/media/posts/3/Designer.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://gorkemlale.com/media/posts/3/Designer.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>Ahanda
 Temel</p>
 
@@ -84,8 +84,8 @@ Temel</p>
         <author>
             <name>Görkem Lale</name>
         </author>
-        <link href="https://goerkemlale.github.io/w3/devopsa-nasil-adim-attim.html"/>
-        <id>https://goerkemlale.github.io/w3/devopsa-nasil-adim-attim.html</id>
+        <link href="https://gorkemlale.com/devopsa-nasil-adim-attim.html"/>
+        <id>https://gorkemlale.com/devopsa-nasil-adim-attim.html</id>
             <category term="DevOps"/>
 
         <updated>2023-12-07T20:35:44+03:00</updated>
@@ -107,8 +107,8 @@ Böyle</p>
         <author>
             <name>Görkem Lale</name>
         </author>
-        <link href="https://goerkemlale.github.io/w3/noindex.html"/>
-        <id>https://goerkemlale.github.io/w3/noindex.html</id>
+        <link href="https://gorkemlale.com/noindex.html"/>
+        <id>https://gorkemlale.com/noindex.html</id>
 
         <updated>2023-12-07T20:31:50+03:00</updated>
             <summary></summary>
