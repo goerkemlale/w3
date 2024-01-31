@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://gorkemlale.com/devops-journey-1-programming-language.html",
+            "url": "https://gorkemlale.com/devops-journey-1-programming-language.html",
+            "title": "DevOps Journey (1) - Programming Language",
+            "summary": "First, I’m going to learn Python, and -hopefully- almost only Python. I want to apply all programming and computer science related principles in Python language. (In future, I think I need to learn functional programming, iterative programming, typed language things. I know Python has no&hellip;",
+            "content_html": "<p>First, I’m going to learn Python, and -hopefully- almost only Python. I want to apply  all programming and computer science related principles in Python language.</p>\n<p><em>(In future, I think I need to learn functional programming, iterative programming, typed language things. I know Python has no ability to that)</em></p>\n",
+            "author": {
+                "name": "Görkem Lale"
+            },
+            "tags": [
+                   "DevOps"
+            ],
+            "date_published": "2024-01-31T19:49:46+03:00",
+            "date_modified": "2024-01-31T19:49:46+03:00"
+        },
+        {
             "id": "https://gorkemlale.com/noindex.html",
             "url": "https://gorkemlale.com/noindex.html",
             "title": "noindex",

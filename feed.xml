@@ -3,12 +3,35 @@
     <title>Görkem Lale</title>
     <link href="https://gorkemlale.com/feed.xml" rel="self" />
     <link href="https://gorkemlale.com" />
-    <updated>2023-12-07T20:31:50+03:00</updated>
+    <updated>2024-01-31T19:49:46+03:00</updated>
     <author>
         <name>Görkem Lale</name>
     </author>
     <id>https://gorkemlale.com</id>
 
+    <entry>
+        <title>DevOps Journey (1) - Programming Language</title>
+        <author>
+            <name>Görkem Lale</name>
+        </author>
+        <link href="https://gorkemlale.com/devops-journey-1-programming-language.html"/>
+        <id>https://gorkemlale.com/devops-journey-1-programming-language.html</id>
+            <category term="DevOps"/>
+
+        <updated>2024-01-31T19:49:46+03:00</updated>
+            <summary>
+                <![CDATA[
+                    First, I’m going to learn Python, and -hopefully- almost only Python. I want to apply all programming and computer science related principles in Python language. (In future, I think I need to learn functional programming, iterative programming, typed language things. I know Python has no&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>First, I’m going to learn Python, and -hopefully- almost only Python. I want to apply  all programming and computer science related principles in Python language.</p>
+<p><em>(In future, I think I need to learn functional programming, iterative programming, typed language things. I know Python has no ability to that)</em></p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>noindex</title>
         <author>
