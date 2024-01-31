@@ -3,105 +3,12 @@
     <title>Görkem Lale</title>
     <link href="https://gorkemlale.com/feed.xml" rel="self" />
     <link href="https://gorkemlale.com" />
-    <updated>2023-12-07T20:37:34+03:00</updated>
+    <updated>2023-12-07T20:31:50+03:00</updated>
     <author>
         <name>Görkem Lale</name>
     </author>
     <id>https://gorkemlale.com</id>
 
-    <entry>
-        <title>DevOps&#x27;ta Dikkat Edilesiceler</title>
-        <author>
-            <name>Görkem Lale</name>
-        </author>
-        <link href="https://gorkemlale.com/devopsta-dikkat-edilesiceler.html"/>
-        <id>https://gorkemlale.com/devopsta-dikkat-edilesiceler.html</id>
-            <category term="DevOps"/>
-
-        <updated>2023-12-07T20:37:34+03:00</updated>
-            <summary>
-                <![CDATA[
-                    Dikkat edin
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Dikkat edin</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Yerelleştirme Nedir?</title>
-        <author>
-            <name>Görkem Lale</name>
-        </author>
-        <link href="https://gorkemlale.com/yerellestirme-nedir.html"/>
-        <id>https://gorkemlale.com/yerellestirme-nedir.html</id>
-            <category term="Localization"/>
-
-        <updated>2023-12-07T20:36:29+03:00</updated>
-            <summary>
-                <![CDATA[
-                    yerelleştirme şudur
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>yerelleştirme şudur</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>DevOps Temelleri</title>
-        <author>
-            <name>Görkem Lale</name>
-        </author>
-        <link href="https://gorkemlale.com/devops-temelleri.html"/>
-        <id>https://gorkemlale.com/devops-temelleri.html</id>
-        <media:content url="https://gorkemlale.com/media/posts/3/Designer.jpeg" medium="image" />
-            <category term="DevOps"/>
-
-        <updated>2023-12-07T20:36:10+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://gorkemlale.com/media/posts/3/Designer.jpeg" alt="" />
-                    Ahanda Temel
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://gorkemlale.com/media/posts/3/Designer.jpeg" class="type:primaryImage" alt="" /></p>
-                <p>Ahanda
-Temel</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>DevOps&#x27;a nasıl adım attım</title>
-        <author>
-            <name>Görkem Lale</name>
-        </author>
-        <link href="https://gorkemlale.com/devopsa-nasil-adim-attim.html"/>
-        <id>https://gorkemlale.com/devopsa-nasil-adim-attim.html</id>
-            <category term="DevOps"/>
-
-        <updated>2023-12-07T20:35:44+03:00</updated>
-            <summary>
-                <![CDATA[
-                    Şöyle Böyle
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Şöyle
-Böyle</p>
-
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>noindex</title>
         <author>
